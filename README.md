@@ -33,7 +33,12 @@ a) main.c: The entry point of the program, initializing system clocks, periphera
 b) services.c: The code initializes the BlueNRG BLE stack, configures the device as a BLE peripheral, sets up GATT and GAP services, makes the device discoverable, and processes user events for button- triggered data transmission.<br>
 c) app_bluenrg.c: Contains the main logic for BLE events, such as handling read/write requests and managing connection states.<br>   
 
-![IMG_5990](https://github.com/user-attachments/assets/dd61b9a7-9ee6-40f4-a904-a79838384a5f)
+### Project Screenshots
+![image](https://github.com/user-attachments/assets/ae016ae5-5bad-4621-9b97-b13837dc2ab3)
+
+### Project Demo Video
+
+
 
 ## **Conclusion**<br>
 The Code is highly customizable for various embedded applications requiring BLE communication, from IoT devices to mobile app integration. It provides a foundation for developing more advanced BLE applications and can be extended to include additional features such as multiple connections, advanced data security, and power management optimizations.<br>
