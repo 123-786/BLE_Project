@@ -37,8 +37,7 @@ c) app_bluenrg.c: Contains the main logic for BLE events, such as handling read/
 ![image](https://github.com/user-attachments/assets/ae016ae5-5bad-4621-9b97-b13837dc2ab3)
 
 ### Project Demo Video
-
-
+https://drive.google.com/file/d/1r6Hj62QAWp0mDpWh78iyuSr84PEvM5f6/view?usp=sharing
 
 ## **Conclusion**<br>
 The Code is highly customizable for various embedded applications requiring BLE communication, from IoT devices to mobile app integration. It provides a foundation for developing more advanced BLE applications and can be extended to include additional features such as multiple connections, advanced data security, and power management optimizations.<br>
