@@ -31,7 +31,9 @@ STM32CubeIDE<br>
 The code is structured into several key components:<br>
 a) main.c: The entry point of the program, initializing system clocks, peripherals (UART, GPIO), and starting the BLE communication process through bluenrg_init and bluenrg_process.<br>
 b) services.c: The code initializes the BlueNRG BLE stack, configures the device as a BLE peripheral, sets up GATT and GAP services, makes the device discoverable, and processes user events for button- triggered data transmission.<br>
-c) app_bluenrg.c: Contains the main logic for BLE events, such as handling read/write requests and managing connection states.<br>
+c) app_bluenrg.c: Contains the main logic for BLE events, such as handling read/write requests and managing connection states.<br>   
+
+![IMG_5990](https://github.com/user-attachments/assets/dd61b9a7-9ee6-40f4-a904-a79838384a5f)
 
 ## **Conclusion**<br>
 The Code is highly customizable for various embedded applications requiring BLE communication, from IoT devices to mobile app integration. It provides a foundation for developing more advanced BLE applications and can be extended to include additional features such as multiple connections, advanced data security, and power management optimizations.<br>
